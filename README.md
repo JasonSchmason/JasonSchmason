@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings and saultations, everyone.  I'm Jason Sanchez, and you've arrived at my GitHub page.  I'm currently working on an assorment of Python and bash projects, with an eye towards infrastructure automation.  If you're so inclined, feel free to message me or send and email to jasonsanchez@mailfence.com.
 
 <!--
 **JasonSchmason/JasonSchmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
